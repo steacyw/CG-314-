@@ -1,0 +1,8 @@
+Will Steacy
+
+Midterm Project Proposal Submission
+
+"DOOM"-style hand/arm with hot sauce shooting pistol
+Scrolls across the bottom of the swcreen with the movement controlled by the mouse.
+Click the left mouse button to shoot hot sauce at "targets" with big exposed eyes.
+Hot sauce has travel time and must hit "target" before it dissapears.
